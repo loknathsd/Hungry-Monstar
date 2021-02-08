@@ -1,0 +1,35 @@
+.search-area{
+   text-align: center;
+    margin-top: 10%;
+}
+ input{
+    padding:15px 30px;
+    border: none;
+    background-color:lightgray;
+    border-radius: 5px;
+ }
+ .search-btn{
+     padding: 15px ;
+     background-color: tomato;
+     border: none;
+     color: white;
+     margin-left: -8px;
+ }
+ .img-size{
+     width: 250px;
+ }
+ /* .name-title{
+       text-align: center;
+ } */
+ #meals-area{
+     display: grid;
+     grid-template-columns: repeat(4 ,1fr);
+     grid-gap : 10px;
+     width: 90%;
+     margin: auto;
+     text-align: center;
+     
+ }
+ .meal-area{
+     border: 1px solid gray;
+ }
