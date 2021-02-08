@@ -33,3 +33,19 @@
  .meal-area{
      border: 1px solid gray;
  }
+ .mealInfo-area{
+    border: 1px solid lightgray;
+     width: 30%;
+     margin: auto;
+     margin-bottom: 5%;
+     
+ }
+ .info-img-size{
+     width: 100%;
+ }
+ .detail-btn{
+    background-color: lightseagreen;
+    padding: 5px 10px;
+    color: white;
+    border: none;
+ }
